@@ -1,9 +1,9 @@
 # Retail Analysis with Walmart Data
 
-# Description 
+## Description 
 Walmart runs several promotional markdown events throughout the year. These markdowns precede prominent holidays, the four largest of all, which are the Super Bowl, Labour Day, Thanksgiving, and Christmas. The weeks including these holidays are weighted five times higher in the evaluation than non-holiday weeks. Part of the challenge presented by this assignment is modeling the effects of markdowns on these holiday weeks in the absence of complete/ideal historical data. Historical sales data for 45 Walmart stores located in different regions are available.
 
-# The dataset
+## The dataset
 
 you will find the following fields: 
 
@@ -19,13 +19,11 @@ you will find the following fields:
 
 • CPI – Prevailing consumer price index • Unemployment - Prevailing unemployment rate
 
-# Tools and Libraries
+## Tools and Libraries
 
 We will be using the following tools and libraries for this project:
 
 • Python Programming Language
-
-• Jupyter Notebook
 
 • Pandas Library for data manipulaon and analysis
 
@@ -33,7 +31,7 @@ We will be using the following tools and libraries for this project:
 
 • Matplotlib Library for data visualizaon
 
-# Conclusion
+## Conclusion
 
  this project aims to help store owners make decisions about increasing their sales, for example
 Some holidays how they affect sales? . Find out which holidays have above-average non-holiday sales for all stores combined and so on.
